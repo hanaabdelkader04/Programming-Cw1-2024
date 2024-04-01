@@ -37,5 +37,5 @@ g++ -o passwordManager main.cpp
 - Register/Login: Upon starting the application, you will be prompted to either login (l) or register (r). New users should register first.
 - Adding a Website Password: After logging in, select the option to add a new website and password. You can choose to input the password manually or generate one automatically.
 - Retrieving Passwords: To view all your stored passwords, select the option to retrieve all passwords. To view a password for a specific site, choose the respective option and provide the website's name.
-- Password Deletion: Users can delete any password they wsnt by just enter the website's name it belongs to.
+- Password Deletion: Users can delete any password they want by just entering the website's name.
 - Logout: You can logout at any time by selecting the logout option.
